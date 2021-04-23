@@ -1,1 +1,1 @@
-{"vpc_cidr_block": "dmnk", "pub_sub_cidr": "j", "pvt_sub_cidr": "kjhkj", "routetable1_cidr_block": "hhj", "routetable2_cidr_block": "ghg", "ami": "h", "region": "gj", "instance_type": "jhjhkj", "tagname": "h", "ebs_volume_size": "j"}
+{"vpc_cidr_block": "KJKJ", "pub_sub_cidr": "HKH", "pvt_sub_cidr": "JK", "routetable1_cidr_block": "HJ", "routetable2_cidr_block": "HKH", "ami": "JH", "region": "UH", "instance_type": "HJ", "tagname": "H", "ebs_volume_size": "IUHJ"}
