@@ -1,1 +1,1 @@
-Replaced Value
+{"vpc_cidr_block": "val1", "pub_sub_cidr": "val2", "pvt_sub_cidr": "val3", "routetable1_cidr_block": "val4", "routetable2_cidr_block": "val5", "ami": "val6", "region": "val7", "instance_type": "val8", "tagname": "val9", "ebs_volume_size": "val10"}
