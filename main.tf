@@ -1,57 +1,57 @@
 variable "vpc_cidr_block" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"
+default     = "cbcfbcv"
 }
 
 variable "pub_sub_cidr" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"
+default     = "bcvb"
 }
 
 variable "pvt_sub_cidr" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"
+default     = "cvbcvb"
 }
 
 variable "routetable1_cidr_block" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"}
+default     = "cvbzdf"}
 
 variable "routetable2_cidr_block" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"}
+default     = "dfsdf"}
 
 variable "ami" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"
+default     = "fbcgfds"
 }
 
 variable "region" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"
+default     = "gxcbxc"
 }
 
 variable "instance_type" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "val1"
+default     = "dsdg"
 }
 
 variable "tagname" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "xcbcfg"
+default     = "dfgdfgd"
 }
 
 variable "ebs_volume_size" {
 description = "Name to be used on all resources as prefix"
 type        = string
-default     = "gxdgd"
+default     = "bcvb"
 }
